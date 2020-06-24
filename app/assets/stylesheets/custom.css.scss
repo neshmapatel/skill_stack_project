@@ -1,0 +1,48 @@
+h1 {
+    font-size: 3.5em;
+    float: center;
+    letter-spacing: -2px;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 0px;
+    color: blue;
+    font-family:  'Times New Roman', Times, serif;
+    font-weight: lighter;
+  }
+
+#info{
+    float: center;
+    font-size: 1.3em;
+    margin-left: 5em;
+    margin-right: 5em;
+    font-family: 'Times New Roman', Times, serif;
+}
+#btn{
+    float: center;
+    font-size: 1.3;
+    margin-left: 5em;
+    margin-right: 5em;
+    text-align: center;
+    margin-top: 2.5em;
+    font-family: 'Times New Roman', Times, serif;
+ 
+}
+// header list
+#logo {
+    float: left;
+    margin-top: 1px;
+    
+  }
+ul{
+    display: flex;
+    justify-content: center;
+    margin-right: 0em;
+    margin-left: 0em;
+}
+li{
+    display: flex;
+    padding: 4px;
+    padding-bottom: 0px;
+    padding-top: 0em;
+}
